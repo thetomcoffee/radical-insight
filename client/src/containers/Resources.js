@@ -99,6 +99,23 @@ class ResourcesPage extends React.Component {
               when you visit.
             </p>
           </TextCard>
+          <TextCard className="resource" header="Addiction Resource">
+            <p>
+              <a
+                href="https://addictionresource.com/"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                Addiction Resource
+              </a>{" "}
+              was founded in 2014 to provide a community for those recovering
+              from addiction and to help patients find the highest quality care
+              for a successful recovery. Their goal is to provide resources to
+              help patients and their loved ones so that they may stay on the
+              road to recovery, and can successfully overcome addiction for
+              life.
+            </p>
+          </TextCard>
         </div>
       </div>
     );
